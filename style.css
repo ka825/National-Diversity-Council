@@ -187,8 +187,9 @@ height: 100%;
 display: flex;
 gap: 20px;
 margin: 0 auto;
-width: 70%;
+width: 58%;
 align-content: center;
+justify-content: center;
 }
 
 .article-heading {
@@ -203,6 +204,7 @@ align-content: center;
 
 .articles p {
     padding-bottom: 15px;
+    width: 93%;
 }
 
 .articles-section img{
@@ -297,13 +299,13 @@ form input {
 .initiatives-wrap {
     display: flex;
     gap: 20px;
-    width: 80%;
+    width: 75%;
     margin: 0 auto;
 }
 
 .intiatives-section img{
     display: block;
-    margin: 0 auto;
+    margin: auto;
     padding-top: 30px;
 }
 
@@ -314,8 +316,9 @@ form input {
     text-align: center;
     display: block;
     margin: 0 auto;
-    width: 90%;
+    width: 85%;
 }
+
 
 footer{
     background-color: #07014C;
