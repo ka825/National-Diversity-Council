@@ -192,6 +192,7 @@ align-content: center;
 justify-content: center;
 }
 
+
 .article-heading {
     padding-bottom: 30px;
 }
@@ -205,7 +206,7 @@ justify-content: center;
 .articles p {
     display: block;
     padding-bottom: 15px;
-    width: 95%;
+    width: 90%;
 }
 
 .articles-section img{
@@ -506,8 +507,15 @@ font-weight: 500;
 }
 
 .video {
-    margin: 0 auto;
     padding-bottom: 20px;
+}
+
+.video-text{
+    font-size: .9em;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    justify-content: center;
 }
 
 
