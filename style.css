@@ -203,8 +203,9 @@ justify-content: center;
 }
 
 .articles p {
+    display: block;
     padding-bottom: 15px;
-    width: 93%;
+    width: 95%;
 }
 
 .articles-section img{
